@@ -25,32 +25,30 @@ const menuData: MenuCategory[] = [
       { id: 2, name: "Calamari", description: "Fried squid with marinara sauce", price: 10.99 },
       { id: 3, name: "Caprese Salad", description: "Fresh mozzarella, tomatoes, and basil", price: 9.99 },
       { id: 4, name: "Bruschetta", description: "Toasted bread with tomatoes, garlic, and basil", price: 8.99 },
-      { id: 6, name: "Calamari", description: "Fried squid with marinara sauce", price: 10.99 },
-      { id: 7, name: "Caprese Salad", description: "Fresh mozzarella, tomatoes, and basil", price: 9.99 },
-      { id: 8, name: "Bruschetta", description: "Toasted bread with tomatoes, garlic, and basil", price: 8.99 },
-      { id: 9, name: "Calamari", description: "Fried squid with marinara sauce", price: 10.99 },
+      { id: 5, name: "Calamari", description: "Fried squid with marinara sauce", price: 10.99 },
+      { id: 6, name: "Caprese Salad", description: "Fresh mozzarella, tomatoes, and basil", price: 9.99 },
     ]
   },
   {
     name: "Main Courses",
     items: [
+      { id: 7, name: "Margherita Pizza", description: "Classic pizza with tomato sauce, mozzarella, and basil", price: 14.99 },
+      { id: 8, name: "Spaghetti Carbonara", description: "Pasta with eggs, cheese, pancetta, and black pepper", price: 16.99 },
+      { id: 9, name: "Grilled Salmon", description: "Fresh salmon with lemon butter sauce and vegetables", price: 22.99 },
       { id: 10, name: "Margherita Pizza", description: "Classic pizza with tomato sauce, mozzarella, and basil", price: 14.99 },
       { id: 11, name: "Spaghetti Carbonara", description: "Pasta with eggs, cheese, pancetta, and black pepper", price: 16.99 },
       { id: 12, name: "Grilled Salmon", description: "Fresh salmon with lemon butter sauce and vegetables", price: 22.99 },
-      { id: 13, name: "Margherita Pizza", description: "Classic pizza with tomato sauce, mozzarella, and basil", price: 14.99 },
-      { id: 14, name: "Spaghetti Carbonara", description: "Pasta with eggs, cheese, pancetta, and black pepper", price: 16.99 },
-      { id: 15, name: "Grilled Salmon", description: "Fresh salmon with lemon butter sauce and vegetables", price: 22.99 },
     ]
   },
   {
     name: "Desserts",
     items: [
+      { id: 13, name: "Tiramisu", description: "Classic Italian coffee-flavored dessert", price: 7.99 },
+      { id: 14, name: "Panna Cotta", description: "Italian cream dessert with berry compote", price: 6.99 },
+      { id: 15, name: "Gelato", description: "Assorted flavors of Italian ice cream", price: 5.99 },
       { id: 16, name: "Tiramisu", description: "Classic Italian coffee-flavored dessert", price: 7.99 },
       { id: 17, name: "Panna Cotta", description: "Italian cream dessert with berry compote", price: 6.99 },
       { id: 18, name: "Gelato", description: "Assorted flavors of Italian ice cream", price: 5.99 },
-      { id: 19, name: "Tiramisu", description: "Classic Italian coffee-flavored dessert", price: 7.99 },
-      { id: 20, name: "Panna Cotta", description: "Italian cream dessert with berry compote", price: 6.99 },
-      { id: 21, name: "Gelato", description: "Assorted flavors of Italian ice cream", price: 5.99 },
     ]
   }
 ];
