@@ -7,5 +7,4 @@ module.exports = {
     trailingSlash: true, // ensure trailing slashes for all URLs
 };
 
- 
-module.exports = nextConfig ;
+export default nextConfig;
