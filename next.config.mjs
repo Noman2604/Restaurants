@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {};
-module.exports = {
+export default {
     output: 'export',
-    basePath: '/Restaurants', // replace with your GitHub repo name
-    assetPrefix: '/Restaurants/', // replace with your GitHub repo name
-    trailingSlash: true, // ensure trailing slashes for all URLs
+    basePath: '/Restaurants',
+    assetPrefix: '/Restaurants/',
+    trailingSlash: true,
 };
 
-export default nextConfig;
