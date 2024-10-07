@@ -35,7 +35,7 @@ export default function Home() {
     { src: Image4, alt: 'Desserts',name:'Desserts'},
   ]
   const router = useRouter();
-  const backgroundImageUrl = "https://lh3.googleusercontent.com/p/AF1QipNqAruSMLvSpzpD_DmdhLg-oy4h__rrMel7K3IS=s1360-w1360-h1020";
+  const backgroundImageUrl = " Hero Section Background Imgae src";
 
   return (
     <div className="flex flex-col min-h-screen " 

@@ -111,7 +111,7 @@ export default function ContactPage() {
         <CardContent>
           <div className="aspect-video relative">
             <iframe
-              src="https://www.google.com/maps/place/DUBAI+DARBAR/@19.2672702,72.8733965,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1657b3f0971:0xf02056a69b663104!8m2!3d19.2672702!4d72.8759714!16s%2Fg%2F11kr_8swhn?entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D"
+              src=" Location your Restaurant!! "
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -133,7 +133,7 @@ export default function ContactPage() {
               <AccordionItem value="item-1">
                 <AccordionTrigger>Do you offer delivery?</AccordionTrigger>
                 <AccordionContent>
-                  Yes, we offer delivery through major food delivery platforms in Dubai
+                  Yes, we offer delivery through major food delivery apps .
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
